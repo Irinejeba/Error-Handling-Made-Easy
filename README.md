@@ -1,8 +1,10 @@
+
+<img width="1600" height="1600" alt="Error" src="https://github.com/user-attachments/assets/577167e4-ae59-4e0d-ada8-ff7467f56868" />
+
 ### Error Handling Made Easy
+> Never forget errors again - learn Python error handling through four simple stories.
 
-> Never forget errors again — learn Python error handling through four simple stories.
-
-Error handling does not have to be complicated. This beginner-friendly project uses memorable examples and visual stories to help you understand what happens when files are missing, already exist, or need to be cleaned up after use.
+Error handling does not have to be complicated...
 
 ### The Four Error-Handling Stories
 
